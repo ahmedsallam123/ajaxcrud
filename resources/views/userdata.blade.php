@@ -27,7 +27,7 @@
 
     <!-- تعديل المستخدم -->
 <div id="editModal" style="display:none; position:fixed; top:20%; left:30%; background:#fff; border:1px solid #ccc; padding:20px; z-index:1000">
-    <h3>تعديل مستخدم</h3>
+    <h3>تعديل المستخدم</h3>
     <input type="hidden" id="edit_user_id">
     <input type="text" id="edit_name" placeholder="الاسم">
     <input type="email" id="edit_email" placeholder="البريد">
